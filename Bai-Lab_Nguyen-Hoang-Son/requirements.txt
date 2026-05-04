@@ -1,2 +1,0 @@
-# Dự án chỉ sử dụng thư viện chuẩn của Python.
-# Không cần cài đặt thêm thư viện bên ngoài.
